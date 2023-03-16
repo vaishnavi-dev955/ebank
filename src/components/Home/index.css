@@ -1,0 +1,33 @@
+.Home-container {
+  background-color: #152850;
+  height: 100vh;
+  width: 100vw;
+}
+
+.Logout-button {
+  color: #ffffff;
+  font-size: 18px;
+  height: 40px;
+  width: 150px;
+  background-color: transparent;
+  border: 1px #ffffff solid;
+  font-family: 'Roboto';
+  margin-left: 250px;
+}
+
+.Home-heading {
+  color: #ffffff;
+  font-size: 60px;
+  font-family: 'Roboto';
+}
+
+.sub-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: space-between;
+  padding: 30px;
+}
+
+.sub-container-2 {
+  text-align: center;
+}
